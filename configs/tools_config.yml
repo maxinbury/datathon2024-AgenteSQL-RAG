@@ -1,0 +1,45 @@
+primary_agent:
+  llm: gpt-4o-mini
+  llm_temperature: 0.0
+
+normativa_policy_rag:
+  unstructured_docs: "data/unstructured_docs/normativa_vial"
+  vectordb: "data/normativa_vial_vectordb"
+  collection_name: rag-chroma
+  llm: gpt-4o-mini
+  llm_temperature: 0.0
+  embedding_model: text-embedding-3-small
+  chunk_size: 500
+  chunk_overlap: 100
+  k: 2
+
+seguros_rag:
+  unstructured_docs: "data/unstructured_docs/seguros"
+  vectordb: "data/ley_seguros_vectordb"
+  collection_name: stories-rag-chroma
+  llm: gpt-4o-mini
+  llm_temperature: 0.0
+  embedding_model: text-embedding-3-small
+  chunk_size: 500
+  chunk_overlap: 100
+  k: 2
+
+siniestros_procesados_sqlagent_configs:
+  travel_sqldb_dir: "data/siniestros_procesados.db"
+  llm: "gpt-3.5-turbo"
+  llm_temperature: 0.0
+  
+siniestros_sqlagent_configs:
+  siniestros_sqldb_dir: "data/siniestros_sqldb.db"
+  llm: "gpt-3.5-turbo"
+  llm_temperature: 0.0
+
+langsmith:
+  tracing: "true"
+  project_name: "PricingOpenAI"
+
+
+
+graph_configs:
+  thread_id: 1 # This can be adjusted to assign a unique value for each user session, so it's easier to access data later on.
+  

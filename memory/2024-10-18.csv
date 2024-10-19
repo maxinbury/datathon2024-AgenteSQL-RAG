@@ -1,0 +1,76 @@
+thread_id,timestamp,user_query,response
+1,20:21:00,cuantos siniestros ocurrieron en la ciudad de corrientes?,En la ciudad de Corrientes ocurrieron un total de 141 siniestros.
+1,20:21:40,cuantos siniestros ocurrieron en la avenida comparado con una calle?,"En total, ocurrieron 79 siniestros en avenidas y 57 siniestros en calles."
+1,20:22:10,la ley de seguro diferencia entre choques en calle y avenida?,"La ley de seguro no parece diferenciar explícitamente entre choques en calles y avenidas en el texto consultado. Sin embargo, menciona diversas normas de seguridad y comportamiento en la vía pública que son aplicables a todas las vías, independientemente de su clasificación. 
+
+Es importante revisar la legislación específica de cada jurisdicción para obtener detalles más precisos sobre cómo se manejan los siniestros en diferentes tipos de vías."
+1,21:52:58,cual es la obligacion de las aseguradoras en caso de un siniestro vial?,"Las obligaciones de las aseguradoras en caso de un siniestro vial incluyen:
+
+1. **Recepción de Denuncias**: Las aseguradoras deben recibir las denuncias de siniestros basadas en el acta de choque correspondiente.
+
+2. **Pago de Gastos**: Deben abonar de inmediato los gastos de sanatorio o velatorio de terceros involucrados en el siniestro, sin perjuicio de los derechos que puedan hacer valer posteriormente.
+
+3. **Subrogación**: El acreedor por los servicios de sanatorio o velatorio puede subrogarse en el crédito del tercero o sus derechohabientes.
+
+4. **No Validez de Renuncias**: Carece de validez cualquier renuncia a un reclamo posterior hecha con motivo del pago de estos gastos.
+
+5. **Seguro Obligatorio**: Todo automotor debe estar cubierto por un seguro que cubra eventuales daños causados a terceros, ya sean transportados o no.
+
+Estas obligaciones están reguladas por la legislación vigente y buscan garantizar la protección de las personas afectadas en un siniestro vial."
+1,21:53:52,Como se distribuyen los siniestros viales por tipo en Corrientes?,"En la ciudad de Corrientes, los siniestros viales se distribuyen por tipo de la siguiente manera:
+
+- **Choque**: 4 incidentes
+- **Caída desde vehículo**: 4 incidentes
+- **Atropello a peatón/es**: 3 incidentes
+- **Atropello a animal/es**: 1 incidente
+- **Tipo no especificado**: 2 incidentes
+
+Esta distribución muestra la variedad de siniestros que ocurren en la localidad."
+1,21:56:52,Que sanciones se aplican a los conductores que no respetan las señales  de transito?,"Las sanciones aplicables a los conductores que no respetan las señales de tránsito, según la Ley de Tránsito 24.449, incluyen:
+
+1. **Faltas Graves**: Se consideran faltas graves aquellas que atentan contra la seguridad del tránsito, como:
+   - No respetar la señalización de los semáforos.
+   - Obstruir la circulación o dificultar el estacionamiento de vehículos de servicio público.
+   - Conducir vehículos sin estar debidamente habilitados.
+   - Circular con vehículos que no tengan las chapas patentes reglamentarias o sin el seguro obligatorio vigente.
+
+2. **Sanciones Específicas**: Las sanciones pueden incluir multas, la retención del vehículo, y en algunos casos, la suspensión de la licencia de conducir.
+
+3. **Responsabilidad de Personas Jurídicas**: Las empresas también pueden ser sancionadas por faltas relacionadas con la seguridad del tránsito.
+
+Es importante que los conductores conozcan estas regulaciones para evitar sanciones y contribuir a la seguridad vial."
+1,22:13:54,Que sanciones se aplican a los conductores que no respetan las señales de transito?,"Las sanciones para los conductores que no respetan las señales de tránsito están reguladas por la Ley de Tránsito 24.449. Algunas de las infracciones graves incluyen:
+
+1. **Violación de señales de tránsito**: Conducir vehículos sin respetar la señalización de los semáforos.
+2. **Obstrucción de la circulación**: Causar dificultades en el tránsito o en el estacionamiento de vehículos de servicio público y de emergencia.
+3. **Conducción sin habilitación**: Manejar vehículos sin estar debidamente habilitado.
+4. **Falta de documentación**: No presentar la documentación exigida para la conducción.
+5. **Fuga o negativa a proporcionar información**: Negarse a suministrar documentación o información requerida por la autoridad.
+6. **Conducción con exceso de ocupantes**: Transportar más ocupantes de los que el vehículo está diseñado para llevar.
+7. **Uso de dispositivos prohibidos**: Conducir utilizando auriculares o sistemas de comunicación manual.
+
+Las sanciones pueden incluir multas, la retención del vehículo, y en algunos casos, la suspensión de la licencia de conducir."
+1,22:15:09,Como se distribuyen los siniestros viales por tipo en Corrientes?,"La distribución de siniestros viales por tipo en la provincia de Corrientes es la siguiente:
+
+- **Colisión entre vehículos**: 123 siniestros
+- **Choque**: 4 siniestros
+- **Caída desde vehículo**: 4 siniestros
+- **Atropello a peatón/es**: 3 siniestros
+- **Vuelco (solo 1 participante)**: 2 siniestros
+
+Esta información refleja los diferentes tipos de incidentes viales ocurridos en la región."
+1,22:15:39,cual es la obligacion de las aseguradoras en caso de un siniestro vial?,"Las obligaciones de las aseguradoras en caso de un siniestro vial incluyen:
+
+1. **Recepción de denuncias**: Las aseguradoras deben recibir las denuncias de siniestros basadas en el acta de choque correspondiente.
+
+2. **Pago inmediato de gastos**: Deben abonar de inmediato los gastos de sanatorio o velatorio de terceros involucrados en el siniestro, sin perjuicio de los derechos que puedan hacer valer posteriormente.
+
+3. **Subrogación de derechos**: El acreedor por los servicios de sanatorio o velatorio puede subrogarse en el crédito del tercero o sus derechohabientes.
+
+4. **No renuncia a reclamos**: Cualquier renuncia a un reclamo posterior, hecha con motivo del pago de estos gastos, carece de validez.
+
+5. **Cobertura obligatoria**: Todo automotor debe estar cubierto por un seguro que cubra eventuales daños causados a terceros, ya sean transportados o no.
+
+6. **Cumplimiento de requisitos**: Las aseguradoras deben asegurarse de que el vehículo esté en condiciones reglamentarias de seguridad y que se haya realizado la revisión técnica obligatoria.
+
+Estas obligaciones están diseñadas para garantizar la protección de las personas afectadas en un siniestro vial y asegurar que los derechos de los involucrados sean respetados."
