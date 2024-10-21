@@ -1,28 +1,17 @@
-Intro:
+Preguntas:
 
-In the stories, who is lily?
-
-Based on the airline policy, do I need to reconfirm my flight?
-
-Give me the table names in travel database
-
-Give me the table names in chinook database
-
-Give me the link of Trump and Harris debate on youtube
+1. ¿Cuántos siniestros han ocurrido en cada provincia?
+2. ¿Cuáles son los tipos de vehículos involucrados con mayor frecuencia en los siniestros?
+3. ¿Cuál es el año de fabricación de los vehículos involucrados en siniestros con mayor frecuencia?
+4. ¿Cuántos siniestros involucraron sustancias peligrosas?
+5. ¿Cuántos siniestros ocurrieron en cada fecha?
+6. ¿Cuántos siniestros involucraron bicicletas?
+7. ¿Cuál es el tipo de servicio de los vehículos involucrados en siniestros?
+8. ¿Cuáles son los tipos de transporte de carga involucrados en siniestros?
+9. ¿Cuál es el número promedio de ocupantes en los siniestros por tipo de vehículo?
+10. ¿Cuántos siniestros involucraron vehículos de movilidad personal?
 ========================================================================
-Final test:
+Respuestas:
 
-In the stories, who is fred?
 
-Based on the airline policy, can I cancel my ticket 10 hours before the flight?
-
-Is there any flight available on the travel database that goes from CDG to BSL?
-
-In chinook DB, list the total sales per country. Which country's customers spent the most?
-
-What are all the genres of Alanis Morisette songs?
-
-Give me a couple of his albums' names
-
-Give me the link to some websites for langgraph tutorial
 ========================================================================
